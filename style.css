@@ -1,0 +1,24 @@
+body{
+    background-color: antiquewhite;
+}
+#tarolo{
+    background-color: brown;
+    color: beige;
+    width: 80%;
+    max-width: 800px;
+    margin: auto;
+    padding: 10px;
+    
+}
+#menu a{
+    color: chartreuse;
+    text-decoration: none;
+    border: 1px solid greenyellow;
+    padding: 5px 10px 5px 10px;
+    background-color: rgb(223, 233, 170);
+    border-radius: 10px;
+
+}
+#menu a:hover{
+    color: rgb(214, 184, 15);
+}
