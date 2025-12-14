@@ -11,9 +11,9 @@ body{
     
 }
 #menu a{
-    color: chartreuse;
+    color: rgb(119, 0, 0);
     text-decoration: none;
-    border: 1px solid greenyellow;
+    border: 1px solid rgb(39, 8, 177);
     padding: 5px 10px 5px 10px;
     background-color: rgb(223, 233, 170);
     border-radius: 10px;
@@ -21,4 +21,7 @@ body{
 }
 #menu a:hover{
     color: rgb(214, 184, 15);
+}
+img {
+    width: 300px;
 }
